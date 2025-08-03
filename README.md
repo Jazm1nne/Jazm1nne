@@ -1,16 +1,13 @@
-## Hi there 👋
+👋 Hello there!  
+🎓 An IT Engineering Student by day ☼ and a Cybersecurity Enthusiast by night ☾  
+💻 Currently learning and growing through hands-on labs and technical courses  
+🚀 Actively participating in training programs and professional seminars
 
-<!--
-**Jazm1nne/Jazm1nne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+⚙️ I use daily: `.py` · `.html` · `.css` · `.js` · `.sql` · `.bash`  
+🌍 I'm mostly active within the **Cybersecurity** and **Tech Education** Communities  
+💡 Built:  
+• A **number guessing game** using HTML, CSS & JavaScript   
+• A **party venue management system** in C#  
+• And co-developed **TeachMe**, an educational platform built as a team project
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💬 Ping me about: cybersecurity · scripting · system troubleshooting · study strategies · tech support
